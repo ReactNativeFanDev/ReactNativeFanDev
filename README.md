@@ -22,8 +22,6 @@
 
 <code>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReactNativeFanDev&theme=dark&hide_border=true&background=45%2C00000000%2C00000000&ring=595959&fire=fff&currStreakLabel=fff)](https://git.io/streak-stats)</code>
 
-<code>![GitHub](https://github-readme-stats.vercel.app/api?username=ReactNativeFanDev&show_icons=true&bg_color=00000000&title_color=fff&hide_border=true&icon_color=fff&text_color=595959)</code>
-
 [![codewars](https://www.codewars.com/users/ReactNativeFanDev/badges/large)](https://www.codewars.com/users/ReactNativeFanDev)   
 
 ### Follow Me:
