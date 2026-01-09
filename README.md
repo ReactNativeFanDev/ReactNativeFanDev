@@ -36,14 +36,11 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Codemagic](https://img.shields.io/badge/-Codemagic-090909?style=for-the-badge&logo=Codemagic)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+
 ### Status
-
-<code>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReactNativeFanDev&theme=dark&hide_border=true&background=45%2C00000000%2C00000000&ring=595959&fire=fff&currStreakLabel=fff)](https://git.io/streak-stats)</code>
-
 [![codewars](https://www.codewars.com/users/ReactNativeFanDev/badges/large)](https://www.codewars.com/users/ReactNativeFanDev)   
 
 ### Follow Me:
-
-<code>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/TheMoLeRiNe)</code>
-<code>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexander-dmytrenko-673288285/)</code>
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/MoLeRiNe)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-dmytrenko-673288285/)
 
